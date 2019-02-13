@@ -1,4 +1,4 @@
-package org.rudyseidinger.algorithmsplayground.dataextructures;
+package org.rudyseidinger.algorithmsplayground.datastructures;
 
 public class LinkedList {
 	private LinkedListNode<?> rootNode;

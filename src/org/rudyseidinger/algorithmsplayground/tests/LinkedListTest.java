@@ -4,8 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 import org.rudyseidinger.algorithmsplayground.*;
-import org.rudyseidinger.algorithmsplayground.dataextructures.LinkedList;
-import org.rudyseidinger.algorithmsplayground.dataextructures.LinkedListNode;
+import org.rudyseidinger.algorithmsplayground.datastructures.LinkedList;
+import org.rudyseidinger.algorithmsplayground.datastructures.LinkedListNode;
 
 public class LinkedListTest {
 	LinkedList myList = new LinkedList();
